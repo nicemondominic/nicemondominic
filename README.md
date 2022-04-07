@@ -26,7 +26,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 </br>
 
-ðŸ“Š **This Week I Spent My Time On:**
+**This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
 ```text
@@ -36,12 +36,7 @@ Coding.....
 <!--END_SECTION:waka-->
 
 
-ðŸ“ˆ **My GitHub Stats:**
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
 
 
 
