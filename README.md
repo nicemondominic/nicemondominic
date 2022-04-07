@@ -10,7 +10,7 @@
 
 I am a programmer , web designer and writer. I love programming, writing, speaking and studying.
 
-As a humanm, I using    , my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a humanm, I using my life for enjoying  , my mad love for making things that change the world. That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="/coding.gif?raw=true" width="408" height="318" />
   
