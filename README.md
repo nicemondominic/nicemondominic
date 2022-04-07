@@ -1,4 +1,4 @@
-### Hi there, I'm <https://cyanogen2004.github.io/personal/">NICEMON DOMINIC</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm NIEMON DOMINIC</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://cyanogen2004.github.io/personal/)
@@ -18,15 +18,15 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 **Talking about Personal Stuffs:**
 
 - Currently A Student ;
-- Coding Is My Passion�7�8�1�5;
+- Coding Is My Passion7Å8„1‚5;
 - Nodejs | Python 
 - Ask me about anything, I am happy to help;
 - How to reach me: nicemondominic@gmail.com;
-- Have A Crush On Space�9�0
+- Have A Crush On Space”9±0
 
 </br>
 
-📊 **This Week I Spent My Time On:**
+ðŸ“Š **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
 ```text
@@ -36,7 +36,7 @@ Coding.....
 <!--END_SECTION:waka-->
 
 
-📈 **My GitHub Stats:**
+ðŸ“ˆ **My GitHub Stats:**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
