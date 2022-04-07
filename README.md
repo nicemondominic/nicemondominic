@@ -12,17 +12,17 @@ I am a full-stack software engineer and writer. I love programming, writing, spe
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/nicemondominic/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="/coding.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
 
-- Currently A Student ;
-- Coding Is My Passion7Å8„1‚5;
-- Nodejs | Python 
-- Ask me about anything, I am happy to help;
-- How to reach me: nicemondominic@gmail.com;
-- Have A Crush On Space”9±0
+- Currently A Student .
+- Coding Is My Passion.
+- Nodejs | Python .
+- Ask me about anything, I am happy to help.
+- How to reach me: nicemondominic@gmail.com.
+- Have A Crush On Space.
 
 </br>
 
