@@ -8,9 +8,9 @@
 
 ### Glad to see you here! 
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I am a programmer , web designer and writer. I love programming, writing, speaking and studying.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a humanm, I using    , my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="/coding.gif?raw=true" width="408" height="318" />
   
