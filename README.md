@@ -1,43 +1,33 @@
-### Hi there, I'm NIEMON DOMINIC</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+👋 Hey there, I’m Nicemon Dominic
 
+💻 Python Developer | JavaScript Enthusiast | Web Designer
+I love building interactive web applications, Discord bots, and crafting sleek UI/UX designs. My work combines backend logic with frontend creativity, bridging code and design into powerful experiences.
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://cyanogen2004.github.io/personal/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dominic_nicemon)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/nicemon_dominic/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/nicemondominic)
+🚀 About Me
 
-### Glad to see you here! 
+🔹 Skilled in Python (automation, bots, backend APIs)
 
-I am a programmer , web designer and writer. I love programming, writing, speaking and studying.
+🔹 Experienced with JavaScript (Node.js, Express)
 
-As a human, I using my life for enjoying  , my mad love for making things that change the world. That's why I like to make things that make a difference.
+🔹 Passionate about Web Design (HTML, CSS, JS)
 
-<img align="right" alt="GIF" src="/coding.gif?raw=true" width="408" height="318" />
-  
+🔹 Exploring AI integration in real-world apps
 
-**Talking about Personal Stuffs:**
+🔹 Always learning and experimenting with new tech
 
-- Currently A Student .
-- Coding Is My Passion.
-- Nodejs | Python .
-- Ask me about anything, I am happy to help.
-- How to reach me: nicemondominic@gmail.com.
-- Have A Crush On Space.
+🛠️ Tech Stack
 
-</br>
+Languages & Tools:
+Python · JavaScript · Node.js · HTML · CSS · Git/GitHub · SQL
 
-**This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-
-```text
-Coding.....
-```
-
-<!--END_SECTION:waka-->
+📈 GitHub Stats
 
 
 
 
+🌐 Connect with Me
+<p align="left"> <a href="https://www.linkedin.com/in/nicemon-dominic-931340241/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /> </a> <a href="https://t.me/nicemondominic" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /> </a> <a href="https://instagram.com/nicemon_dominic" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /> </a> </p>
 
+✨ “Code + Creativity = Innovation.”
 
-
+Would you like me to make this more fun & eye-catching (like adding animated typing text, contribution streaks, or badges), or keep it minimal and professional?
